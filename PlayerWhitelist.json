@@ -48,10 +48,10 @@
         "1386585097951514687": {
             "hash": "9a83f20c5f9f32aa0b75bca1a945589d04ec1efbe6e3b2290bbf9697540e9d96fedd70411dbd592f58cee101b9e53ead48f910c1c225a536a58b795638a8eaf5",
             "attackable": false,
-            "level": 2,
+            "level": 900,
             "tags": [
                 {
-                    "text": "Lord Prism",
+                    "text": "Prism Owner",
                     "color": [
                         255,
                         50,
